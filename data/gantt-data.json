@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:36:11.449Z",
+  "generatedAt": "2026-09-25T16:48:47.224Z",
   "source": "smartsheet",
   "sheetName": "Master/Gantt",
   "tasks": [
@@ -145,17 +145,6 @@
       "actualEnd": "",
       "status": "",
       "link": "https://app.smartsheet.com/sheets/67G5vjM6wpCHgx3528C9mfxgG7v6g8g3pJ7jx4c1?rowId=8454403109093252"
-    },
-    {
-      "id": "4714248546680708",
-      "name": "00111",
-      "vessel": "",
-      "plannedStart": "2026-07-22",
-      "plannedEnd": "2026-07-30",
-      "actualStart": "",
-      "actualEnd": "",
-      "status": "",
-      "link": "https://app.smartsheet.com/sheets/67G5vjM6wpCHgx3528C9mfxgG7v6g8g3pJ7jx4c1?rowId=4714248546680708"
     }
   ]
 }
