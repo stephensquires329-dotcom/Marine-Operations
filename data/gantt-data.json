@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:25:37.226Z",
+  "generatedAt": "2026-11-02T17:21:12.103Z",
   "source": "smartsheet",
   "sheetName": "Master/Gantt",
   "tasks": [
@@ -70,28 +70,6 @@
       "link": "https://app.smartsheet.com/sheets/67G5vjM6wpCHgx3528C9mfxgG7v6g8g3pJ7jx4c1?rowId=573103761194884"
     },
     {
-      "id": "5076703388565380",
-      "name": "Quote 02-26",
-      "vessel": "",
-      "plannedStart": "2026-07-05",
-      "plannedEnd": "2026-07-18",
-      "actualStart": "",
-      "actualEnd": "",
-      "status": "",
-      "link": "https://app.smartsheet.com/sheets/67G5vjM6wpCHgx3528C9mfxgG7v6g8g3pJ7jx4c1?rowId=5076703388565380"
-    },
-    {
-      "id": "2824903574880132",
-      "name": "Quote 08-26",
-      "vessel": "",
-      "plannedStart": "",
-      "plannedEnd": "",
-      "actualStart": "",
-      "actualEnd": "",
-      "status": "",
-      "link": "https://app.smartsheet.com/sheets/67G5vjM6wpCHgx3528C9mfxgG7v6g8g3pJ7jx4c1?rowId=2824903574880132"
-    },
-    {
       "id": "7328503202250628",
       "name": "Quote 05-26",
       "vessel": "",
@@ -156,6 +134,39 @@
       "actualEnd": "2026-11-21",
       "status": "Active",
       "link": "https://app.smartsheet.com/sheets/67G5vjM6wpCHgx3528C9mfxgG7v6g8g3pJ7jx4c1?rowId=2881415629242244"
+    },
+    {
+      "id": "2321761591885700",
+      "name": "Quote 10-26",
+      "vessel": "",
+      "plannedStart": "2026-12-22",
+      "plannedEnd": "2026-12-29",
+      "actualStart": "",
+      "actualEnd": "",
+      "status": "Not Started",
+      "link": "https://app.smartsheet.com/sheets/67G5vjM6wpCHgx3528C9mfxgG7v6g8g3pJ7jx4c1?rowId=2321761591885700"
+    },
+    {
+      "id": "4543645884612484",
+      "name": "Quote 11-26",
+      "vessel": "",
+      "plannedStart": "2026-12-21",
+      "plannedEnd": "2027-03-16",
+      "actualStart": "",
+      "actualEnd": "",
+      "status": "Not Started",
+      "link": "https://app.smartsheet.com/sheets/67G5vjM6wpCHgx3528C9mfxgG7v6g8g3pJ7jx4c1?rowId=4543645884612484"
+    },
+    {
+      "id": "3222358147202948",
+      "name": "Quote 12-26",
+      "vessel": "",
+      "plannedStart": "2027-07-01",
+      "plannedEnd": "2027-08-30",
+      "actualStart": "",
+      "actualEnd": "",
+      "status": "Not Started",
+      "link": "https://app.smartsheet.com/sheets/67G5vjM6wpCHgx3528C9mfxgG7v6g8g3pJ7jx4c1?rowId=3222358147202948"
     }
   ]
 }
