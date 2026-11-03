@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T14:53:31.262Z",
+  "generatedAt": "2026-11-03T20:48:33.674Z",
   "source": "smartsheet",
   "sheetName": "Master/Gantt",
   "tasks": [
@@ -161,8 +161,8 @@
       "id": "3222358147202948",
       "name": "Quote 12-26",
       "vessel": "",
-      "plannedStart": "2027-07-01",
-      "plannedEnd": "2027-08-30",
+      "plannedStart": "2027-08-01",
+      "plannedEnd": "2027-11-17",
       "actualStart": "",
       "actualEnd": "",
       "status": "Not Started",
